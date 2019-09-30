@@ -3,7 +3,7 @@ ms.date:  08/09/2017
 keywords:  powershell,cmdlet,download,install,setup,windows 10, windows 8.1, windows 8.0,windows 7
 title:  Installing Windows PowerShell
 ---
-# Installing Windows PowerShell
+# Installing Windows PowerShell2
 
 Windows PowerShell comes installed by default in every Windows, starting with Windows 7 SP1 and Windows Server 2008 R2 SP1.
 
